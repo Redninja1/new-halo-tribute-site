@@ -1,0 +1,80 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-image: url('http://www.amazingwallpaperz.com/wp-content/uploads/Halo-Ring-Widescreen-Wallpapers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/*css for nav*/
+
+/*end nav*/
+.nopadding {
+  padding: 2px !important;
+  margin: 0 !important;
+  outline: 2px solid #333;
+  background: #333;
+}
+
+  
+
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+
+header nav {
+  
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 800px;
+  
+}
+
+
+.jumbotron {
+ 
+  background-image: url('http://www.icxm.net/team/uploads/Halo/Halo5GAMEINFORMER/DayHeader.png');
+  background-repeat: no-repeat;    
+  background-size:cover;
+  color: #ffffff;
+    background-position: center;
+ 
+}
+a:link {color: floralwhite;}
+
+
+section .row  {
+  margin: 0 0 30px;
+  width: 100%;
+  
+}
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+
+p {
+	font-size: 20px; 
+	color:#ffffff;
+	text-shadow: 1px 1px #000000;
+	
+}
+h3{ 
+    
+    font-family: "Arial Black", Gadget, sans-serif;
+	
+	text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+}
+
+
+figure img {
+	border: solid grey 2px;
+	
+	
+}
+/*new css */
+
+
+
